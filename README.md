@@ -1,0 +1,1 @@
+This repository contains a Python code example that demonstrates a common error when using recursion: the RecursionError. The bug.py file shows the erroneous recursive function, and bugSolution.py provides a solution by replacing the recursion with iteration.
